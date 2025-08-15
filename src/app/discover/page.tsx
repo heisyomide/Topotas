@@ -1,5 +1,7 @@
 'use client';
 
+import Image from 'next/image';
+
 export default function DiscoverPage() {
   const destinations = [
     {
@@ -36,9 +38,11 @@ export default function DiscoverPage() {
       <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {destinations.map((place, index) => (
           <div key={index} className="bg-blue-50 rounded shadow overflow-hidden">
-            <img
+            <Image
               src={place.image}
               alt={place.name}
+              width={600}
+              height={300}
               className="w-full h-56 object-cover"
             />
             <div className="p-4">

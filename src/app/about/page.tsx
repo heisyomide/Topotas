@@ -6,7 +6,7 @@ export default function AboutPage() {
       <div className="max-w-3xl mx-auto text-center">
         <h1 className="text-4xl font-bold mb-4">About Topotas Travel Agency</h1>
         <p className="text-lg text-blue-700 mb-8">
-          At Topotas Travel Agency, we believe travel is more than just a destination — it's a journey of discovery, connection, and unforgettable memories.
+          At Topotas Travel Agency, we believe travel is more than just a destination — it&apos;s a journey of discovery, connection, and unforgettable memories.
         </p>
       </div>
 
@@ -14,7 +14,7 @@ export default function AboutPage() {
         <div>
           <h2 className="text-2xl font-semibold mb-2">🌍 Our Mission</h2>
           <p>
-            To make travel accessible, exciting, and seamless for everyone. Whether you're dreaming of Santorini sunsets or African safaris, we help you get there with ease and joy.
+            To make travel accessible, exciting, and seamless for everyone. Whether you&apos;re dreaming of Santorini sunsets or African safaris, we help you get there with ease and joy.
           </p>
         </div>
 
@@ -31,14 +31,14 @@ export default function AboutPage() {
         <div>
           <h2 className="text-2xl font-semibold mb-2">💬 Why Choose Us</h2>
           <p>
-            We’re not just agents — we’re travel companions. Our team is passionate, experienced, and dedicated to making your journey unforgettable.
+            We&apos;re not just agents — we&apos;re travel companions. Our team is passionate, experienced, and dedicated to making your journey unforgettable.
           </p>
         </div>
 
         <div>
           <h2 className="text-2xl font-semibold mb-2">📍 Our Story</h2>
           <p>
-            Founded in 2020, Topotas Travel started with a simple goal: to help people explore the world without stress. Today, we’ve helped thousands of travelers find their perfect escape.
+            Founded in 2020, Topotas Travel started with a simple goal: to help people explore the world without stress. Today, we&apos;ve helped thousands of travelers find their perfect escape.
           </p>
         </div>
       </div>
