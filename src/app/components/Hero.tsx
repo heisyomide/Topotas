@@ -102,7 +102,7 @@ export default function Hero() {
             </h1>
 
             {/* Description Card */}
-            <p className="text-sm md:text-base text-white/70 mb-10 max-w-md leading-relaxed border-l-2 border-yellow-500/50 pl-5 bg-white/5 py-6 pr-6 rounded-r-2xl backdrop-blur-md border border-white/5 shadow-2xl">
+            <p className="text-sm md:text-base text-white/70 mb-10 max-w-md leading-relaxed border-l-2 border-yellow-500/50 pl-5 bg-white/5 py-6 pr-6 rounded-r-2xl backdrop-blur-md border shadow-2xl">
               {destination.description}
             </p>
 

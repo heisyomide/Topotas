@@ -52,7 +52,7 @@ export default function TravelBlogPage() {
             className="flex items-center gap-3 mb-4"
           >
             <span className="w-12 h-[1px] bg-yellow-500" />
-            <span className="text-yellow-500 font-mono text-[10px] tracking-[0.4em] uppercase font-bold text-white/60">
+            <span className="text-yellow-500 font-mono text-[10px] tracking-[0.4em] uppercase font-bold">
               Live Intel Feed
             </span>
           </motion.div>
