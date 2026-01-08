@@ -3,7 +3,7 @@ import './globals.css'; // Tailwind styles
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Santorini Escape',
+  title: 'Topotas Escape',
   description: 'Romantic travel packages for dream destinations',
 };
 
